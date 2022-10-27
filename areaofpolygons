@@ -32,3 +32,12 @@ main = do
        let peri= 2*(l+b)
        putStrLn("The perimeter of rectangle is ")
        print(peri)
+       
+-- volume of sphere
+main = do
+       putStrLn("Enter radius of sphere")
+       rin <- getLine
+       let r = (read rin :: Float)
+       let vol= (4*pi*r*r*r)/3
+       putStrLn("The volume of sphere is ")
+       print(vol)
