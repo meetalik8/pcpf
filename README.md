@@ -1,2 +1,2 @@
-# haskell
-haskell codes sem 3
+# haskell and prolog
+haskell and prolog codes sem 3
