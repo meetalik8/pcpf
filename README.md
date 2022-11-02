@@ -1,2 +1,2 @@
 # haskell and prolog in pcpf
-haskell and prolog codes sem 3
+pcpf c,c++,java,haskell and prolog
