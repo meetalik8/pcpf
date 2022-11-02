@@ -1,2 +1,2 @@
-# haskell and prolog in pcpf
+# pcpf
 pcpf c,c++,java,haskell and prolog
