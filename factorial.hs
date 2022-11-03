@@ -13,15 +13,3 @@ main = do
        let n = (read nin :: Int)
        putStrLn("Factorial of the number is ")
        print(fact n)
-       
--- Sum of n natural numbers
-funct:: Int -> Int
-funct n|n==0=0
-funct n|n/=0=n+funct(n-1)
-
-main = do
-       putStrLn("Enter a number")
-       nin <- getLine
-       let n= (read nin :: Int)
-       putStrLn("The sum of natural numbers is")
-       print(funct n)
